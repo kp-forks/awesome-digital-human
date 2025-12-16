@@ -40,7 +40,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **Generative Human Geometry Distribution.**<br>
 *Xiangjun Tang, Biao Zhang, Peter Wonka.*<br>
-arxiv 2025.  [[PDF](https://arxiv.org/abs/2503.01448] 
+arxiv 2025.  [[PDF](https://arxiv.org/abs/2503.01448)] 
 
 **WildAvatar: Learning In-the-wild 3D Avatars from the Web.**<br>
 *Zihao Huang, Shoukang Hu, Guangcong Wang, Tianqi Liu, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.*<br> 
@@ -229,14 +229,6 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2208.03550)] [[Project](https://clip-act
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
 SIGGRAPH (TOG) 2022. [[PDF](https://arxiv.org/abs/2205.08535)] [[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] [[Code](https://github.com/hongfz16/AvatarCLIP)] 
-
-**DELTA: Learning Disentangled Avatars with Hybrid 3D Representations.**<br>
-*[Yao Feng](https://scholar.google.com/citations?user=wNQQhSIAAAAJ&hl=en&oi=ao), [Weiyang Liu](https://wyliu.com), [Timo Bolkart](https://sites.google.com/site/bolkartt), [Jinlong Yang](https://is.mpg.de/~jyang), [Marc Pollefeys](https://people.inf.ethz.ch/pomarc), [Michael J. Black](https://ps.is.mpg.de/person/black).*<br> 
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06441)] [[Project](https://yfeng95.github.io/delta)] [[Code](https://github.com/yfeng95/DELTA)]
-
-**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation.**<br>
-*[Yifei Zeng](https://github.com/zeng-yifei), [Yuanxun Lu](https://github.com/YuanxunLu), [Xinya Ji](https://github.com/jixinya), [Yao Yao](https://yoyo000.github.io), [Hao Zhu](http://zhuhao.cc), [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html).*<br> 
-arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09864)] [[Project](https://zeng-yifei.github.io/avatarbooth_page)] [[Code](https://github.com/zeng-yifei/AvatarBooth)]
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
@@ -442,6 +434,10 @@ ECCV 2022. [[PDF](https://arxiv.org/abs/2204.14109)] [[Project](https://mathis.p
 
 [Project Splinter](https://project-splinter.github.io): Human Digitalization with Implicit Representation.
 
+**OAP: Style-Omniscient Animatable Portraits.**<br>
+*Tingting Liao, Yujian Zheng, Adilbek Karmanov, Liwen Hu, Leyang Jin, Yuliang Xiu, Hao Li.*<br>
+SIGGRAPH 2025. [[PDF](https://arxiv.org/abs/2505.05022)] [[Project](https://tingtingliao.github.io/soap/)]
+
 **HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis.**<br>
 *Timo Teufel, Pulkit Gera, Xilong Zhou, Umar Iqbal, Pramod Rao, Jan Kautz, Vladislav Golyanik, Christian Theobalt.*<br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2508.09137)] [[Project](https://vcai.mpi-inf.mpg.de/projects/HumanOLAT/)] [[Github](https://github.com/TMT22/HumanOLAT)]
@@ -464,7 +460,7 @@ ICCV 2025. [[PDF](https://arxiv.org/abs/2507.18758)]
 
 **MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction.**<br>
 *Gangjian Zhang, Nanjie Yao, Shunsi Zhang, hanfeng Zhao, Guoliang Pang, Jian Shu, Hao Wan.*<br>
-CVPR 2025. [[PDF]()] [[Project](https://multigohuman.github.io)]
+CVPR 2025. [[PDF](https://arxiv.org/abs/2412.03103)] [[Project](https://multigohuman.github.io)]
 
 **Free-form Generation Enhances Challenging Clothed Human Modeling.**<br>
 *Hang Ye, Xiaoxuan Ma, Hai Ci, Wentao Zhu, Yizhou Wang.*<br>
