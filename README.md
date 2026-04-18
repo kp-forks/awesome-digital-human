@@ -36,6 +36,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 </p></details><p></p>
 
+## Industry Demo or Product
+
+**SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
+*SpatialReal Team.*<br>
+2025. [[Website](https://spatialreal.ai/)] [[Docs](https://docs.spatialreal.ai/overview/introduction)] [[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal)]
+
+Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
+
 ## 3D/4D Human Avatar Generation and Animation
 
 **Generative Human Geometry Distribution.**<br>
